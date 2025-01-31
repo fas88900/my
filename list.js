@@ -41,8 +41,8 @@ const videos = [
     isSeries: false
   },
   {
-    title: "panda plan",
-    image: "https://upload.wikimedia.org/wikipedia/en/e/e4/Panda_Plan_2024_Jackie_Chan_film_promotional_poster.jpg",
+    title: "Panda Plan (2024)",
+    image: "https://media.themoviedb.org/t/p/w440_and_h660_face/hbO8MVrDuT8YxqeJD6DMxcamY9N.jpg",
     url: "https://www.terabox.com/sharing/embed?surl=fztwzPZsV91H7nZYBHdD6w&autoplay=true&mute=false&resolution=1080",
     isSeries: false
   },
