@@ -7,8 +7,7 @@ const videos = [
       { title: "Episode 2", url: "https://www.terabox.com/sharing/embed?surl=Dpwz7lv8OF4mihTmP8FdwA&autoplay=true&mute=false&resolution=1080" },
       { title: "Episode 3", url: "https://terabox.com/sharing/embed?surl=CFmENgLUqtTj1iBgn5D3pA&resolution=1080&autoplay=true&mute=false&uk=4398947362547&fid=206069812938996&slid=" },
       { title: "Episode 4", url: "https://terabox.com/sharing/embed?surl=-4W_4eacLhFP2QSLELgYfw&resolution=1080&autoplay=true&mute=false&uk=4398947362547&fid=394075081935960&slid=" },
-      { title: "Episode 5 coming soon", url: "https:/terabox.com/sharing/embed?surl=-4W_4eacLhFP2QSLELgYfw&resolution=1080&autoplay=true&mute=false&uk=4398947362547&fid=394075081935960&slid=" }
-    ],
+     ],
     isSeries: true
   },
   {
