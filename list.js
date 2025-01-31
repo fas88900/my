@@ -46,6 +46,12 @@ const videos = [
     url: "https://www.terabox.com/sharing/embed?surl=fztwzPZsV91H7nZYBHdD6w&autoplay=true&mute=false&resolution=1080",
     isSeries: false
   },
+ {
+    title: "Alien: Romulus (2024)",
+    image: "https://fas88900.github.io/my/img/AlienRomulus.jpg",
+    url: "https://terabox.com/sharing/embed?surl=EAwAJOAVkUC2w-sfsXjbOQ&resolution=1080&autoplay=true&mute=false&uk=4398947362547&fid=51191748393077&slid=",
+    isSeries: false
+  },
   {
     title: "Transformers One (2024)",
     image: "https://fas88900.github.io/my/img/Transformersone.jpg",
