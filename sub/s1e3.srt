@@ -1,0 +1,2217 @@
+1
+00:00:01,605 --> 00:00:05,438
+Aku menawarkan
+program magang eksklusif untukmu, Peter.
+
+2
+00:00:05,521 --> 00:00:06,914
+SEBELUMNYA DALAM…
+<i>YOUR FRIENDLY NEIGHBORHOOD SPIDER-MAN</i>
+
+3
+00:00:06,938 --> 00:00:08,018
+Harus katakan, menjijikkan.
+
+4
+00:00:08,063 --> 00:00:10,605
+Kau sungguh akan bekerja
+untuk Norman Osborn?
+
+5
+00:00:10,688 --> 00:00:11,938
+Hei, Parker!
+
+6
+00:00:12,021 --> 00:00:14,563
+Lonnie sebenarnya asyik.
+Dia sepertinya baik.
+
+7
+00:00:14,646 --> 00:00:17,063
+Dia punya otot, popularitas. Pearl…
+
+8
+00:00:17,146 --> 00:00:18,480
+Dapat!
+
+9
+00:00:18,563 --> 00:00:20,605
+- Hei, kau baik-baik saja?
+- Astaga!
+
+10
+00:00:20,688 --> 00:00:22,021
+Kita diundang ke pesta.
+
+11
+00:00:22,105 --> 00:00:23,896
+Aku tidak mau ke pesta ini tanpamu.
+
+12
+00:00:23,980 --> 00:00:25,313
+Kirim alamatnya. Bertemu di sana.
+
+13
+00:00:25,396 --> 00:00:27,438
+<i>Aku akan membasmimu.</i>
+
+14
+00:00:29,396 --> 00:00:30,980
+Ada apa ini?
+
+15
+00:00:31,730 --> 00:00:33,063
+<i>Tampaknya kau sibuk.</i>
+
+16
+00:00:33,146 --> 00:00:35,396
+<i>Aku mau tinggalkan pesta ini.
+Bicara lagi nanti.</i>
+
+17
+00:00:35,480 --> 00:00:37,938
+Pak Osborn ingin bicara denganmu.
+
+18
+00:00:38,021 --> 00:00:39,105
+Jadi…
+
+19
+00:00:39,771 --> 00:00:41,396
+Kau Spider-Man.
+
+20
+00:00:52,438 --> 00:00:55,230
+<i>Hei</i>
+
+21
+00:00:55,313 --> 00:00:57,896
+<i>Itulah Spider-Man</i>
+
+22
+00:00:57,980 --> 00:00:59,188
+<i>Spider-Man</i>
+
+23
+00:00:59,271 --> 00:01:01,521
+<i>Bisa seperti laba-laba</i>
+
+24
+00:01:01,605 --> 00:01:02,896
+<i>Spider-Man</i>
+
+25
+00:01:02,980 --> 00:01:04,188
+<i>Spider-Man</i>
+
+26
+00:01:04,271 --> 00:01:05,355
+<i>Spider-Man</i>
+
+27
+00:01:05,438 --> 00:01:07,188
+<i>- Itu dia Spider-Man!
+- Ya!</i>
+
+28
+00:01:07,271 --> 00:01:08,396
+<i>Itu dia</i>
+
+29
+00:01:08,480 --> 00:01:09,605
+<i>Itu dia lagi</i>
+
+30
+00:01:09,688 --> 00:01:12,396
+<i>Berayun cepat keliling kota
+Kau hampir tak melihatnya</i>
+
+31
+00:01:12,480 --> 00:01:13,521
+<i>Perayap Dinding</i>
+
+32
+00:01:13,605 --> 00:01:14,730
+<i>Kau tahu selanjutnya</i>
+
+33
+00:01:14,813 --> 00:01:17,438
+<i>Tetanggamu yang ramah
+Dia menjaga linkungan</i>
+
+34
+00:01:17,521 --> 00:01:18,521
+<i>Akrobat urban</i>
+
+35
+00:01:18,605 --> 00:01:20,539
+<i>Entah bagaimana dia selalu sempat
+Melawan kejahatan</i>
+
+36
+00:01:20,563 --> 00:01:22,730
+<i>Asal sederhana
+Kini kita terbang tinggi</i>
+
+37
+00:01:22,813 --> 00:01:24,896
+<i>Indra laba-laba
+Anak pintar berkekuatan super</i>
+
+38
+00:01:24,980 --> 00:01:27,896
+<i>Menurutmu tak adil Kasihan deh</i>
+
+39
+00:01:27,980 --> 00:01:30,230
+<i>Ada di puncak Bertengger di atas</i>
+
+40
+00:01:30,313 --> 00:01:31,730
+<i>Tiap hari dan tidak berhenti</i>
+
+41
+00:01:31,813 --> 00:01:32,938
+<i>Hei</i>
+
+42
+00:01:33,021 --> 00:01:34,980
+<i>Butuh kotaku, kotaku membutuhkanku</i>
+
+43
+00:01:35,063 --> 00:01:36,646
+<i>Pahlawan bukan main hakim sendiri</i>
+
+44
+00:01:36,730 --> 00:01:37,938
+<i>Itu dia Spider-Man</i>
+
+45
+00:01:38,021 --> 00:01:40,105
+<i>Melepas topeng
+Aku tahu yang kau lihat</i>
+
+46
+00:01:40,188 --> 00:01:41,188
+<i>Awas</i>
+
+47
+00:01:41,271 --> 00:01:43,438
+<i>Aku tahu kau ingin tetangga sepertiku</i>
+
+48
+00:01:43,521 --> 00:01:45,396
+<i>Membersihkan Queens, NYC</i>
+
+49
+00:01:45,480 --> 00:01:47,438
+<i>Aku bekerja lebih baik dengan tim</i>
+
+50
+00:01:47,521 --> 00:01:48,896
+<i>Ini dia Spider-Man</i>
+
+51
+00:01:53,313 --> 00:01:56,980
+Jadi, kau Spider-Man.
+
+52
+00:01:57,771 --> 00:02:00,938
+Kita bicara lagi nanti,
+tetapi rahasiamu aman bersamaku.
+
+53
+00:02:01,021 --> 00:02:02,021
+<i>Jadi…</i>
+
+54
+00:02:02,105 --> 00:02:03,438
+<i>Kau Spider-Man.</i>
+
+55
+00:02:03,521 --> 00:02:04,646
+<i>Jadi…</i>
+
+56
+00:02:04,730 --> 00:02:06,271
+<i>Kau Spider-Man.</i>
+
+57
+00:02:06,355 --> 00:02:07,438
+<i>Jadi…</i>
+
+58
+00:02:07,521 --> 00:02:10,063
+<i>Kau Spider-Man.</i>
+
+59
+00:02:11,355 --> 00:02:13,646
+Jadi, kau Spider-Man.
+
+60
+00:02:13,730 --> 00:02:15,063
+Apa?
+
+61
+00:02:15,146 --> 00:02:17,105
+Aku bilang kau sudah mati. Kau kalah.
+
+62
+00:02:17,188 --> 00:02:19,313
+Ya, permainan bagus.
+
+63
+00:02:19,396 --> 00:02:21,396
+Terima kasih. Aku memang jago.
+
+64
+00:02:21,938 --> 00:02:24,688
+Omong-omong,
+apa yang terjadi padamu semalam?
+
+65
+00:02:24,771 --> 00:02:27,396
+Kau biarkan aku menunggu
+di pesta kemenangan semalam.
+
+66
+00:02:28,230 --> 00:02:29,563
+Benar, pesta itu.
+
+67
+00:02:30,105 --> 00:02:32,563
+- Ya, maaf soal semalam, Nico.
+- Sudah seharusnya.
+
+68
+00:02:32,646 --> 00:02:36,021
+Aku harus mengobrol dengan orang
+bernama "Mike Si Tukang Keringat"
+
+69
+00:02:36,105 --> 00:02:39,146
+tentang bagaimana musik <i>lo-fi </i>itu
+tak lekang waktu.
+
+70
+00:02:39,230 --> 00:02:42,188
+Kuharap magang Oscorp-mu lebih baik,
+tetapi sedikit saja.
+
+71
+00:02:42,813 --> 00:02:44,980
+Magangnya… mengejutkan.
+
+72
+00:02:47,563 --> 00:02:50,980
+Jika kau butuh bantuan untuk keluar,
+tinggal beri tahu aku.
+
+73
+00:02:51,063 --> 00:02:53,896
+Aku punya banyak saran
+soal cara memutus hubungan kerja.
+
+74
+00:02:53,980 --> 00:02:55,813
+Berhenti? Tidak, untuk apa berhenti?
+
+75
+00:02:55,896 --> 00:02:58,521
+Semua berjalan lancar.
+Bahkan lebih dari lancar.
+
+76
+00:02:58,605 --> 00:03:00,146
+Sangat lancar.
+
+77
+00:03:00,980 --> 00:03:02,688
+Terserah apa katamu saja, Pete.
+
+78
+00:03:03,271 --> 00:03:05,438
+Kedengarannya
+kau perlu menghilangkan stres.
+
+79
+00:03:06,438 --> 00:03:09,396
+Teater <i>arthouse </i>ini mau adakan
+maraton film kung-fu malam ini
+
+80
+00:03:09,480 --> 00:03:11,188
+- jika kau mau lihat.
+- Sungguh?
+
+81
+00:03:11,730 --> 00:03:13,813
+Tunggu. Maaf, tidak bisa.
+
+82
+00:03:13,896 --> 00:03:16,105
+Pak Osborn mau makan malam denganku nanti.
+
+83
+00:03:16,188 --> 00:03:18,188
+Katanya dia mau "mengulik isi otakku".
+
+84
+00:03:18,271 --> 00:03:20,146
+Maksudmu secara harfiah, 'kan?
+
+85
+00:03:20,771 --> 00:03:23,980
+- Aku rasa tidak.
+- Hei, Nico, kau keberatan…
+
+86
+00:03:24,063 --> 00:03:25,230
+Hei, Peter.
+
+87
+00:03:25,313 --> 00:03:26,313
+Hai, Bu O'Hara.
+
+88
+00:03:26,396 --> 00:03:28,688
+Nico, sepertinya
+salah satu saudara angkatmu
+
+89
+00:03:28,771 --> 00:03:30,396
+membuat dapur agak berantakan.
+
+90
+00:03:30,480 --> 00:03:32,813
+- Bisa bantu aku sebentar?
+- Tentu, Susan.
+
+91
+00:03:32,896 --> 00:03:34,646
+Waspadalah, Pete.
+
+92
+00:03:34,730 --> 00:03:39,313
+CEO besar selalu berusaha
+memanfaatkan rakyat jelata.
+
+93
+00:03:44,771 --> 00:03:46,938
+Tidak perlu khawatir.
+Semua baik-baik saja.
+
+94
+00:03:47,021 --> 00:03:49,230
+Kau hanya mau bertemu Norman Osborn
+
+95
+00:03:49,313 --> 00:03:50,938
+untuk membahas bahwa dia tahu kau…
+
+96
+00:03:51,730 --> 00:03:52,771
+Spider-Man.
+
+97
+00:03:52,855 --> 00:03:56,021
+Ini benar-benar sangat tidak apa-apa.
+
+98
+00:03:57,105 --> 00:03:58,438
+Wah.
+
+99
+00:04:08,688 --> 00:04:10,105
+Senang kau bisa datang.
+
+100
+00:04:10,188 --> 00:04:12,230
+Aku yakin kau tak kesulitan
+menemukan tempat ini.
+
+101
+00:04:12,313 --> 00:04:14,230
+Aku mungkin agak tersesat.
+
+102
+00:04:14,313 --> 00:04:15,896
+Maaf aku datang terlambat,
+
+103
+00:04:15,980 --> 00:04:17,940
+tapi tampaknya
+lebih awal dari tamu restoran lain.
+
+104
+00:04:19,105 --> 00:04:21,896
+Ya, aku ingin percakapan kita
+bersifat lebih pribadi,
+
+105
+00:04:21,980 --> 00:04:25,105
+jadi aku menyewa seluruh restoran.
+
+106
+00:04:26,021 --> 00:04:27,313
+Ya, Pak Osborn.
+
+107
+00:04:27,396 --> 00:04:29,313
+Anda dan rekan Anda ingin pesan apa?
+
+108
+00:04:29,938 --> 00:04:30,938
+Peter?
+
+109
+00:04:32,230 --> 00:04:33,896
+Boleh aku pesan…
+
+110
+00:04:33,980 --> 00:04:36,164
+MENARA LOBSTER 250, AYAM SOUS VIDE 100
+SENGKEL SAPI MILAN 145, KING SALMON ORO 75
+
+111
+00:04:36,188 --> 00:04:38,855
+Maksudku, aku pesan segelas air saja.
+
+112
+00:04:39,855 --> 00:04:41,980
+Tidak, aku mentraktirmu, Peter.
+
+113
+00:04:42,063 --> 00:04:43,355
+Tolong jangan sungkan.
+
+114
+00:04:43,438 --> 00:04:46,896
+Pak Osborn, kau baik sekali,
+tetapi sungguh, aku tak bisa.
+
+115
+00:04:46,980 --> 00:04:48,563
+Tidak, aku memaksa.
+
+116
+00:04:52,105 --> 00:04:53,938
+Baik jika kau memaksa.
+
+117
+00:04:56,063 --> 00:04:59,771
+Harus aku akui,
+selera makanmu sangat mengesankan.
+
+118
+00:05:00,438 --> 00:05:02,238
+Aku mau tanya
+pergi ke mana semua makanan itu,
+
+119
+00:05:02,313 --> 00:05:05,605
+tetapi kau pasti membakar banyak energi
+saat melakukan…
+
+120
+00:05:05,688 --> 00:05:07,230
+Pekerjaan paruh waktumu.
+
+121
+00:05:08,646 --> 00:05:10,105
+Begini, Pak Osborn.
+
+122
+00:05:10,188 --> 00:05:13,563
+Aku tahu yang kau kira kau lihat
+di video itu kemarin,
+
+123
+00:05:13,646 --> 00:05:15,605
+tetapi setelah memikirkannya,
+
+124
+00:05:15,688 --> 00:05:16,688
+aku bisa menyimpulkan
+
+125
+00:05:16,771 --> 00:05:19,521
+ada anggota tim keamananmu
+yang mengerjaimu.
+
+126
+00:05:20,146 --> 00:05:21,355
+Aku dikerjai…
+
+127
+00:05:22,105 --> 00:05:23,521
+Tim keamananku?
+
+128
+00:05:23,605 --> 00:05:25,730
+Ya. Pasti begitu.
+
+129
+00:05:27,105 --> 00:05:29,188
+Itu menarik.
+
+130
+00:05:29,271 --> 00:05:31,313
+Terutama karena kamera
+yang merekam kejadian itu
+
+131
+00:05:31,396 --> 00:05:33,355
+adalah salah satu
+kamera keamanan pribadiku.
+
+132
+00:05:33,438 --> 00:05:36,063
+Yang dimonitor aku seorang.
+
+133
+00:05:36,146 --> 00:05:40,313
+Artinya tidak seorang pun kecuali aku
+memiliki aksesnya.
+
+134
+00:05:40,938 --> 00:05:43,521
+Itu sebabnya dikerjai seperti itu
+lucu sekali.
+
+135
+00:05:44,188 --> 00:05:45,646
+Ayolah, Peter.
+
+136
+00:05:45,730 --> 00:05:49,313
+Akan lebih baik kalau kau bilang
+kau berteman dengan Spider-Man.
+
+137
+00:05:49,938 --> 00:05:51,396
+Baiklah, kau benar.
+
+138
+00:05:55,730 --> 00:05:58,730
+Aku memang Spider-Man.
+
+139
+00:05:58,813 --> 00:06:00,771
+Tolong jangan beri tahu Bibi May!
+
+140
+00:06:00,855 --> 00:06:03,688
+Dia sudah cukup stres.
+Dia tidak perlu tahu soal ini.
+
+141
+00:06:04,480 --> 00:06:05,855
+Lihat dirimu.
+
+142
+00:06:05,938 --> 00:06:07,980
+Bahkan saat seseorang tahu rahasiamu,
+
+143
+00:06:08,063 --> 00:06:11,563
+kekhawatiran terbesarmu
+adalah kesehatan orang lain.
+
+144
+00:06:11,646 --> 00:06:15,813
+Kau sehebat aksi yang kau lakukan
+sebagai identitas rahasiamu.
+
+145
+00:06:15,896 --> 00:06:18,480
+Apakah itu menghentikan
+pencurian kecil di sana-sini,
+
+146
+00:06:18,563 --> 00:06:21,230
+atau menyelamatkan bus penuh penumpang
+dari mobil lepas kendali.
+
+147
+00:06:21,313 --> 00:06:24,355
+- Pak Osborn, aku tidak…
+- Peter, kau ingat ini?
+
+148
+00:06:24,438 --> 00:06:25,771
+Aku ingat.
+
+149
+00:06:25,855 --> 00:06:29,021
+Beberapa minggu lalu aku mencegah
+pencopet merampok pria itu.
+
+150
+00:06:29,105 --> 00:06:31,021
+Kau juga berayun entah dari mana
+
+151
+00:06:31,105 --> 00:06:33,605
+dan menyelamatkan anak itu
+dari ditabrak truk.
+
+152
+00:06:33,688 --> 00:06:35,771
+- Kau ingat itu?
+- Ya.
+
+153
+00:06:35,855 --> 00:06:39,688
+Anak yang kau selamatkan itu
+adalah putraku, Harry.
+
+154
+00:06:39,771 --> 00:06:41,021
+Sejak hari itu,
+
+155
+00:06:41,105 --> 00:06:46,063
+aku bersumpah untuk menemukan Spider-Man
+dan membalasnya karena selamatkan Harry.
+
+156
+00:06:46,146 --> 00:06:48,605
+Tak perlu waktu lama
+untuk mengabaikan kostum buatan itu
+
+157
+00:06:48,688 --> 00:06:50,938
+dan melihat kegeniusan jaring itu.
+
+158
+00:06:51,021 --> 00:06:53,105
+Elastis, namun kuat.
+
+159
+00:06:53,188 --> 00:06:55,771
+Mekanisme penembakan di pergelangannya.
+
+160
+00:06:55,855 --> 00:06:59,563
+Lalu, pertanyaannya adalah,
+siapa yang menciptakan semua itu?
+
+161
+00:06:59,646 --> 00:07:02,730
+Sebagian besar pemikir ilmiah terhebat
+sudah bekerja di Oscorp.
+
+162
+00:07:02,813 --> 00:07:08,063
+Setelah kuselidiki tersangka biasanya,
+aku sadar dia tidak ada di antara kita.
+
+163
+00:07:08,146 --> 00:07:10,313
+Itu berarti dia pasti lebih muda.
+
+164
+00:07:10,396 --> 00:07:13,521
+Lalu, kupersempit daftar calonku
+menjadi empat pemikir cerdas.
+
+165
+00:07:13,605 --> 00:07:17,438
+Amadeus, Asha, Jeanne, dan kau, Peter.
+
+166
+00:07:18,188 --> 00:07:21,396
+Aku berteori salah satu dari kalian
+mungkin membantu Spider-Man,
+
+167
+00:07:21,480 --> 00:07:25,021
+jadi aku mulai Program Magang Oscorp
+untuk mengawasi kalian semua.
+
+168
+00:07:25,105 --> 00:07:26,105
+Dan…
+
+169
+00:07:26,896 --> 00:07:31,355
+Bayangkan betapa terkejutnya aku
+saat tahu kau tak hanya membantunya,
+
+170
+00:07:31,438 --> 00:07:33,730
+tapi kaulah Spider-Man.
+
+171
+00:07:35,563 --> 00:07:39,188
+Kini, satu-satunya pertanyaan, Peter,
+adalah, "Apa yang kau butuhkan?"
+
+172
+00:07:41,813 --> 00:07:42,813
+Apa?
+
+173
+00:07:43,855 --> 00:07:46,688
+Apa yang kau butuhkan?
+Aku bisa apa untuk mempermudah hidupmu?
+
+174
+00:07:46,771 --> 00:07:48,451
+Seperti ucapanku tadi,
+jaringmu luar biasa,
+
+175
+00:07:48,480 --> 00:07:50,813
+tetapi kostummu jelas butuh peningkatan.
+
+176
+00:07:50,896 --> 00:07:52,563
+Penglihatan malam untuk lensamu?
+
+177
+00:07:52,646 --> 00:07:55,230
+Setruman ringan di kostum
+untuk menangkal penyerang?
+
+178
+00:07:55,313 --> 00:07:57,563
+Pemindai radio polisi terhubung ke topeng?
+
+179
+00:07:58,355 --> 00:08:01,771
+Aku sebenarnya sudah punya pemindai
+yang terpasang di topeng.
+
+180
+00:08:01,855 --> 00:08:03,855
+Tentu saja.
+
+181
+00:08:03,938 --> 00:08:06,271
+Kau pemuda yang sangat cerdas, Peter.
+
+182
+00:08:06,355 --> 00:08:08,438
+Ini baru awalnya saja.
+
+183
+00:08:08,521 --> 00:08:12,063
+Menurutku, kita buatkan kostum
+dengan bahan yang lebih kuat untukmu,
+
+184
+00:08:12,146 --> 00:08:15,021
+termasuk sistem GPS yang luas,
+bisa lebih membantu.
+
+185
+00:08:15,105 --> 00:08:16,188
+Apa aku benar? Pasti.
+
+186
+00:08:16,271 --> 00:08:18,396
+Mungkin tambahkan drone? Itu berlebihan?
+
+187
+00:08:18,480 --> 00:08:20,938
+Ya, drone itu agak berlebihan.
+
+188
+00:08:21,021 --> 00:08:22,938
+- Aku berpikir terlalu jauh.
+- Pak Osborn,
+
+189
+00:08:23,021 --> 00:08:25,730
+aku sangat hargai
+kau mau membantuku, sungguh,
+
+190
+00:08:25,813 --> 00:08:27,896
+tetapi aku harus lakukan ini sendiri.
+
+191
+00:08:30,271 --> 00:08:33,188
+Waktu dapat kekuatan ini,
+aku tak tahu alasannya.
+
+192
+00:08:33,271 --> 00:08:35,938
+Kenapa aku, bukan orang lain?
+
+193
+00:08:36,021 --> 00:08:38,063
+Orang yang bisa jadi
+Captain America selanjutnya,
+
+194
+00:08:38,146 --> 00:08:40,105
+bukannya sembarang anak dari Queens.
+
+195
+00:08:40,813 --> 00:08:44,855
+Namun, kini aku percaya aku mendapat
+kekuatan ini untuk membantu orang,
+
+196
+00:08:44,938 --> 00:08:46,855
+melindungi mereka sebagai Spider-Man.
+
+197
+00:08:46,938 --> 00:08:50,813
+Jika itu berarti membahayakan diri,
+aku tidak masalah,
+
+198
+00:08:51,688 --> 00:08:55,563
+tapi jika kau membantuku, aku bisa membuat
+kau atau orang-orang Oscorp dalam bahaya.
+
+199
+00:08:57,605 --> 00:09:00,230
+Kau menawariku magang
+karena ingin menemukan Spider-Man,
+
+200
+00:09:00,313 --> 00:09:05,271
+tetapi mungkin lebih aman jika Spider-Man
+atau Peter Parker tak bekerja di Oscorp.
+
+201
+00:09:08,021 --> 00:09:11,646
+Peter, aku jamin
+aku bisa menjaga diriku sendiri,
+
+202
+00:09:11,730 --> 00:09:13,271
+tetapi aku menghormati kekhawatiranmu.
+
+203
+00:09:13,355 --> 00:09:15,271
+Aku juga akan menghormati keinginanmu,
+
+204
+00:09:15,355 --> 00:09:18,730
+sekaligus berjanji bahwa
+rahasiamu akan tetap ada di antara kita.
+
+205
+00:09:19,355 --> 00:09:22,355
+Namun, aku berharap kau mau pertimbangkan
+untuk tetap di Oscorp.
+
+206
+00:09:22,438 --> 00:09:26,188
+Kau jelas lebih dari memenuhi syarat,
+dan kami beruntung jika kau mau.
+
+207
+00:09:28,355 --> 00:09:30,980
+Terlepas dari hal apa
+yang dilakukan Spider-Man,
+
+208
+00:09:31,063 --> 00:09:33,771
+Peter Parker punya masa depan yang cerah.
+
+209
+00:09:33,855 --> 00:09:36,271
+Namun, jika kau memutuskan
+untuk mundur dari magang,
+
+210
+00:09:36,355 --> 00:09:37,771
+aku mengerti sepenuhnya.
+
+211
+00:09:38,438 --> 00:09:41,438
+Setidaknya, aku ingin membayarmu
+untuk hari pertamamu.
+
+212
+00:09:41,521 --> 00:09:43,521
+Pak Osborn, kau tak perlu melakukan itu.
+
+213
+00:09:43,605 --> 00:09:45,980
+Sudah dilakukan.
+Setidaknya ini yang bisa kulakukan.
+
+214
+00:09:47,188 --> 00:09:48,646
+Peter Parker Seribu Dolar
+
+215
+00:09:48,730 --> 00:09:50,771
+Sekali lagi terima kasih,
+atas namaku dan putraku.
+
+216
+00:09:55,438 --> 00:09:57,480
+James, di mana si bodoh ini?
+
+217
+00:09:57,563 --> 00:09:58,646
+Entah.
+
+218
+00:09:58,730 --> 00:10:00,563
+Namun, kita di tempat yang tepat.
+
+219
+00:10:01,646 --> 00:10:02,813
+Apa katanya?
+
+220
+00:10:02,896 --> 00:10:05,313
+Dia bilang taruh uangnya di tempat sampah.
+
+221
+00:10:10,021 --> 00:10:11,771
+Di sini hanya ada sampah.
+
+222
+00:10:11,855 --> 00:10:12,855
+Biar kulihat ponselnya.
+
+223
+00:10:13,396 --> 00:10:16,105
+Katanya taruh uang itu di tempat sampah.
+
+224
+00:10:16,188 --> 00:10:17,605
+Apa ruginya bagi kita?
+
+225
+00:10:17,688 --> 00:10:20,646
+Entah, James, mungkin beberapa ribu dolar?
+
+226
+00:10:20,730 --> 00:10:23,271
+Ya ampun, kenapa yang tampan selalu bodoh?
+
+227
+00:10:24,105 --> 00:10:27,188
+Maria, kabarnya pria ini yang aslinya.
+
+228
+00:10:27,980 --> 00:10:31,063
+Jika dia sehebat yang kudengar,
+kita akan segera balik modal…
+
+229
+00:10:31,146 --> 00:10:34,896
+Jika tidak, kita hajar dia
+dan ambil uang kita kembali.
+
+230
+00:10:35,730 --> 00:10:36,855
+Terserah kau saja.
+
+231
+00:10:47,188 --> 00:10:48,271
+Apa-apaan itu?
+
+232
+00:10:52,605 --> 00:10:54,896
+"Senang berbisnis denganmu."
+
+233
+00:10:59,480 --> 00:11:01,105
+Kau genius, Sayang!
+
+234
+00:11:04,813 --> 00:11:07,646
+- Bibi May, aku pulang!
+- Hei, Peter.
+
+235
+00:11:07,730 --> 00:11:09,563
+Pak Osborn minta
+aku bungkus sisa makanannya.
+
+236
+00:11:09,646 --> 00:11:12,563
+Entah apa Bibi pernah makan simping,
+tetapi rasanya enak.
+
+237
+00:11:13,105 --> 00:11:14,688
+Kenapa banyak kardus?
+
+238
+00:11:14,771 --> 00:11:17,605
+Hanya mengosongkan lemari.
+
+239
+00:11:17,688 --> 00:11:19,521
+Sekalian saja Bibi pilah barang-barang ini
+
+240
+00:11:19,605 --> 00:11:21,646
+dan jual daring
+barang yang kita tak butuh.
+
+241
+00:11:21,730 --> 00:11:23,896
+Bibi mau jual ini?
+
+242
+00:11:23,980 --> 00:11:25,521
+Pasti bisa dapat beberapa dolar.
+
+243
+00:11:25,605 --> 00:11:27,688
+Mesin jahit itu bisa dibilang baru.
+
+244
+00:11:27,771 --> 00:11:30,396
+Hanya kau yang menggunakannya untuk…
+
+245
+00:11:30,480 --> 00:11:33,355
+- Untuk apa itu?
+- Proyek ekonomi rumahan.
+
+246
+00:11:33,438 --> 00:11:35,063
+Untuk itu aku membutuhkannya.
+
+247
+00:11:35,146 --> 00:11:38,146
+Bukan untuk yang aneh-aneh atau apalah.
+
+248
+00:11:38,230 --> 00:11:39,646
+Ya, benar. Untuk itu.
+
+249
+00:11:39,730 --> 00:11:41,438
+Akan Bibi daftarkan sebagai
+"Seperti baru."
+
+250
+00:11:42,188 --> 00:11:44,313
+Kurasa itu maksudku, Bibi May.
+
+251
+00:11:44,396 --> 00:11:48,271
+Sebagian besar barang-barang ini baru
+atau milik Paman Ben.
+
+252
+00:11:52,355 --> 00:11:56,105
+Tadinya Bibi kira ini sulit, Peter,
+tetapi ternyata tidak apa-apa.
+
+253
+00:11:56,938 --> 00:12:00,230
+Kadang ada hal yang harus dikerjakan…
+
+254
+00:12:00,438 --> 00:12:02,230
+Tidak peduli kau mau atau tidak.
+
+255
+00:12:03,438 --> 00:12:07,396
+Baiklah, kita lihat apa lagi
+yang tersembunyi di belakang sana.
+
+256
+00:12:11,063 --> 00:12:13,021
+JATUH TEMPO
+
+257
+00:12:15,938 --> 00:12:17,105
+SMA ROCKFORD T. BALES
+
+258
+00:12:17,188 --> 00:12:20,813
+Aku tak percaya kau akan beri tahu
+CEO Miliarder
+
+259
+00:12:20,896 --> 00:12:24,480
+Norman "Pundi Uang" Osborn,
+untuk buang jauh-jauh program magangnya.
+
+260
+00:12:25,105 --> 00:12:27,521
+Aku tak bilang itu.
+
+261
+00:12:27,605 --> 00:12:31,855
+Aku tak bilang "buang" ke Pak Osborn,
+dan aku tak yakin harus berhenti.
+
+262
+00:12:32,938 --> 00:12:36,730
+Pete, aku paham kau mau tetap di sana
+untuk membantu bibimu,
+
+263
+00:12:36,813 --> 00:12:38,646
+tetapi aku harus bilang,
+
+264
+00:12:38,730 --> 00:12:42,688
+jika Bibi May tahu kau tetap di Oscorp
+hanya demi dia…
+
+265
+00:12:43,313 --> 00:12:45,646
+Dia akan suruh aku berhenti. Aku tahu.
+
+266
+00:12:45,730 --> 00:12:47,646
+Itu sebabnya ini sulit.
+
+267
+00:12:47,730 --> 00:12:50,563
+Hei, Peter, Nico, di sini!
+
+268
+00:12:51,813 --> 00:12:54,688
+Aku bawa makan siang.
+Kau duluan, aku carikan meja.
+
+269
+00:12:55,480 --> 00:12:57,438
+- Hei, Petey.
+- Hei, Pearl. Hei, Lonnie.
+
+270
+00:12:57,521 --> 00:13:00,896
+Jagoanku, Peter Parker.
+Makan siangmu hari ini aku yang traktir.
+
+271
+00:13:01,563 --> 00:13:02,605
+Apa?
+
+272
+00:13:02,688 --> 00:13:04,980
+Terima kasih, tetapi itu tidak perlu.
+
+273
+00:13:05,063 --> 00:13:06,146
+Pokoknya tenang saja.
+
+274
+00:13:06,230 --> 00:13:09,105
+Aku baru tahu dari Pak Taylor
+percobaan lab pertama kita sukses.
+
+275
+00:13:09,188 --> 00:13:11,230
+- Tidak mungkin! Benarkah?
+- Benar.
+
+276
+00:13:11,313 --> 00:13:13,855
+Lonnie sudah menyombongkannya
+satu jam terakhir.
+
+277
+00:13:13,938 --> 00:13:14,938
+Ini penting!
+
+278
+00:13:15,021 --> 00:13:18,313
+Yang pertama dari banyak nilai A plus
+untuk tim impian Lincoln-Parker.
+
+279
+00:13:20,938 --> 00:13:23,271
+Aku senang kita dapat nilai bagus,
+
+280
+00:13:23,355 --> 00:13:25,896
+ayolah, kau melakukan lebih
+dari bagian kerjamu.
+
+281
+00:13:25,980 --> 00:13:27,438
+Ya, tetapi biarkan aku mentraktirmu.
+
+282
+00:13:27,521 --> 00:13:28,855
+Ini pekan besar bagi kita.
+
+283
+00:13:29,438 --> 00:13:30,896
+Tim Ravens mendominasi Tim Gibbons,
+
+284
+00:13:30,980 --> 00:13:32,938
+kita sukses di kelas Pak Taylor,
+
+285
+00:13:33,021 --> 00:13:35,646
+Pearl akan memecahkan 30 rekor
+di lomba renangnya hari ini,
+
+286
+00:13:36,396 --> 00:13:38,021
+dan kau baru mulai magang.
+
+287
+00:13:38,105 --> 00:13:41,146
+Sebaiknya menyerah dan biarkan
+dia membelikan makan siangmu, Petey.
+
+288
+00:13:42,021 --> 00:13:44,980
+Baiklah, kau menang.
+Namun, lain kali aku bayar.
+
+289
+00:13:45,063 --> 00:13:47,563
+Kau pandai menawar, tetapi aku setuju.
+
+290
+00:13:47,646 --> 00:13:48,855
+Mereka aku traktir.
+
+291
+00:13:48,938 --> 00:13:51,063
+- Pearl, kau dan Peter cari meja.
+- Terima kasih, Lon.
+
+292
+00:13:51,146 --> 00:13:52,355
+Terima kasih, Lonnie.
+
+293
+00:13:53,980 --> 00:13:55,021
+Ditolak.
+
+294
+00:13:55,688 --> 00:13:58,438
+Benar. Aku lupa patungan piza
+setelah pertandingan.
+
+295
+00:14:03,230 --> 00:14:04,438
+Kalau aku beli ini saja?
+
+296
+00:14:06,438 --> 00:14:08,313
+Lonnie, mana makan siangmu?
+
+297
+00:14:08,396 --> 00:14:10,938
+Kau tahu tak baik makan sedikit
+pada hari latihan.
+
+298
+00:14:11,021 --> 00:14:13,230
+Jika mau separuh roti lapisku,
+Lonnie, ambillah.
+
+299
+00:14:13,313 --> 00:14:14,771
+Secara teknis kau pemiliknya.
+
+300
+00:14:14,855 --> 00:14:16,605
+Terima kasih, Peter, tetapi tidak usah.
+
+301
+00:14:16,688 --> 00:14:17,771
+Sebentar.
+
+302
+00:14:17,855 --> 00:14:18,855
+Hei, Ibu, ada apa?
+
+303
+00:14:18,938 --> 00:14:21,688
+Tunggu, pelan-pelan. Tarik napas dalam.
+
+304
+00:14:21,771 --> 00:14:23,230
+Jadi, bagaimana magangmu?
+
+305
+00:14:23,313 --> 00:14:26,688
+Kau pasti sudah buat mereka terkesan
+dan dapat pekerjaan tetap.
+
+306
+00:14:26,771 --> 00:14:28,938
+Tidak, ini agak rumit. Maksudku…
+
+307
+00:14:29,021 --> 00:14:31,146
+Pearl, bisa tolong antar aku pulang?
+
+308
+00:14:32,313 --> 00:14:34,730
+Ya, tentu. Semua baik-baik saja?
+
+309
+00:14:34,813 --> 00:14:36,271
+Kujelaskan di jalan. Terima kasih.
+
+310
+00:14:36,855 --> 00:14:38,730
+Kita bicara lagi nanti, Petey.
+
+311
+00:14:40,271 --> 00:14:41,896
+Dengan senang hati kuterima.
+
+312
+00:14:42,771 --> 00:14:43,771
+Apa?
+
+313
+00:14:43,855 --> 00:14:46,230
+Aku yakin 93 persen mereka takkan kembali.
+
+314
+00:14:48,438 --> 00:14:49,521
+Kita hampir sampai, Lon.
+
+315
+00:14:50,230 --> 00:14:52,146
+Sekali lagi terima kasih, Pearl. Sungguh.
+
+316
+00:14:52,230 --> 00:14:53,480
+Tidak apa-apa.
+
+317
+00:14:54,521 --> 00:14:56,563
+Aku belum pernah ke rumahmu.
+
+318
+00:14:56,646 --> 00:14:58,980
+Aku tak tahu rumahmu jauh dari sekolah.
+
+319
+00:15:00,230 --> 00:15:01,521
+Ya.
+
+320
+00:15:01,605 --> 00:15:04,105
+Bukan begini caranya
+aku ingin kau pertama kali ke rumahku.
+
+321
+00:15:11,063 --> 00:15:12,063
+Terima kasih, Pearl.
+
+322
+00:15:12,146 --> 00:15:14,605
+Kau tak tahu betapa kuhargai ini.
+Aku telepon nanti.
+
+323
+00:15:14,688 --> 00:15:16,563
+Aku hanya mau memastikan kami benar…
+
+324
+00:15:16,646 --> 00:15:18,605
+- Ayah, semua baik-baik saja?
+- Hei, Lon.
+
+325
+00:15:18,688 --> 00:15:20,605
+Duduklah dengan ibumu sebentar.
+
+326
+00:15:25,730 --> 00:15:27,813
+Hei, Ibu, di mana Dre?
+
+327
+00:15:27,896 --> 00:15:28,980
+Di kamarnya.
+
+328
+00:15:29,063 --> 00:15:30,980
+Dia beruntung jika boleh keluar lagi.
+
+329
+00:15:32,063 --> 00:15:33,105
+Jadi, apa yang terjadi?
+
+330
+00:15:33,188 --> 00:15:35,105
+Ibu bersiap pergi ke Laundromat,
+
+331
+00:15:35,188 --> 00:15:39,521
+tetapi saat membuka pintu depan,
+ada polisi berjalan dengan adikmu.
+
+332
+00:15:39,605 --> 00:15:42,813
+Katanya Andre melakukan vandalisme
+di sebuah gedung bersama preman,
+
+333
+00:15:42,896 --> 00:15:46,188
+menyebut diri mereka
+Geng Jalan Seratus Sepuluh.
+
+334
+00:15:46,271 --> 00:15:47,855
+- Apa?
+- Sebuah geng!
+
+335
+00:15:47,938 --> 00:15:50,188
+Sejak kapan Dre kumpul bersama geng?
+
+336
+00:15:50,271 --> 00:15:52,105
+Itu yang ingin Ibu ketahui.
+
+337
+00:15:57,188 --> 00:16:00,855
+Lonnie, saat Ibu membuka pintu
+dan melihat polisi itu,
+
+338
+00:16:00,938 --> 00:16:02,396
+jantung Ibu serasa berhenti,
+
+339
+00:16:02,480 --> 00:16:04,688
+dan saat lihat
+Andre berdiri di sampingnya, Ibu…
+
+340
+00:16:04,771 --> 00:16:07,980
+Ibu tidak tahu harus merasa lega
+atau makin takut.
+
+341
+00:16:09,563 --> 00:16:11,021
+Dre!
+
+342
+00:16:19,355 --> 00:16:20,355
+Sial!
+
+343
+00:16:21,313 --> 00:16:26,105
+Seperti yang diminta, aku persembahkan
+cincin paling berharga dalam koleksi kami.
+
+344
+00:16:26,188 --> 00:16:30,896
+Dalam hal cinta, aku percaya
+tidak ada yang namanya terlalu mahal.
+
+345
+00:16:30,980 --> 00:16:33,355
+Ya, kami setuju sekali.
+
+346
+00:16:33,438 --> 00:16:34,813
+Benar, 'kan, Sayang?
+
+347
+00:16:34,896 --> 00:16:38,980
+Ya, bahkan, kami mungkin
+akan mengambil semuanya.
+
+348
+00:16:57,355 --> 00:16:58,521
+Ini lumayan keren.
+
+349
+00:16:58,605 --> 00:16:59,980
+Paman Ben pasti akan marah
+
+350
+00:17:00,063 --> 00:17:02,688
+jika tahu aku memotret
+dengan kameranya dari atas sini.
+
+351
+00:17:05,813 --> 00:17:07,480
+SELAMAT ULANG TAHUN
+PAMAN BEN
+
+352
+00:17:10,688 --> 00:17:13,230
+<i>Bala bantuan ke toko perhiasan
+di Lexington Avenue.</i>
+
+353
+00:17:13,313 --> 00:17:16,105
+<i>Ulangi. Dua tersangka
+bersenjata dan berbahaya.</i>
+
+354
+00:17:18,896 --> 00:17:21,188
+Baiklah, Spidey, jangan buang waktu.
+
+355
+00:17:31,105 --> 00:17:33,521
+Itulah masalah kalian…
+
+356
+00:17:33,605 --> 00:17:35,688
+Kalian tak pernah tahu saatnya menyerah.
+
+357
+00:17:41,396 --> 00:17:43,980
+Lihat kalian berdua
+menyelesaikan ucapan satu sama lain.
+
+358
+00:17:44,063 --> 00:17:46,146
+Pasti manis jika
+kalian tak menyerang dengan kejam.
+
+359
+00:17:46,230 --> 00:17:48,855
+Begini saja,
+kalian menyerah dengan tertib,
+
+360
+00:17:48,938 --> 00:17:52,813
+dan aku akan minta polisi
+agar sel kalian bersebelahan. Setuju?
+
+361
+00:17:52,896 --> 00:17:55,105
+Aku akan membebaskanmu, Sayang.
+
+362
+00:17:55,188 --> 00:17:58,188
+Maaf, Nona,
+tetapi jaring itu tidak bisa dirobek.
+
+363
+00:18:00,355 --> 00:18:01,605
+Astaga…
+
+364
+00:18:01,688 --> 00:18:03,230
+Kalian anggota CrossFit, ya?
+
+365
+00:18:04,230 --> 00:18:05,646
+Aku akan mencabik-cabik dia.
+
+366
+00:18:05,730 --> 00:18:08,313
+Jangan terlalu lama.
+Ada tempat lain yang harus kita rampok.
+
+367
+00:18:08,396 --> 00:18:09,688
+Aku tahu.
+
+368
+00:18:09,771 --> 00:18:12,813
+Coba trik jaring itu lagi,
+kini aku siap menghadapimu.
+
+369
+00:18:12,896 --> 00:18:14,813
+Karena kau minta dengan baik…
+
+370
+00:18:15,355 --> 00:18:16,355
+Apa…
+
+371
+00:18:21,438 --> 00:18:23,271
+- Hei!
+- Maaf!
+
+372
+00:18:25,980 --> 00:18:28,063
+Lihat ke sini, Bocah Serangga!
+
+373
+00:18:30,980 --> 00:18:32,646
+Kau bawa pisau ke pertarungan jaring?
+
+374
+00:18:32,730 --> 00:18:35,230
+Itu sebenarnya sangat pintar.
+
+375
+00:18:37,730 --> 00:18:39,855
+Aku seharusnya bersiap
+untuk hal seperti itu.
+
+376
+00:18:42,230 --> 00:18:44,146
+Kalian benar-benar pasangan serasi.
+
+377
+00:18:44,230 --> 00:18:46,855
+Bertemu di aplikasi kencan apa?
+Pencuri Hati?
+
+378
+00:18:52,855 --> 00:18:53,855
+Istirahat!
+
+379
+00:18:57,355 --> 00:18:58,438
+Baiklah, main lagi!
+
+380
+00:19:03,938 --> 00:19:04,938
+Gawat!
+
+381
+00:19:06,813 --> 00:19:07,813
+Hampir saja.
+
+382
+00:19:08,438 --> 00:19:09,438
+Kena kau!
+
+383
+00:19:09,521 --> 00:19:10,563
+Mati kau!
+
+384
+00:19:16,271 --> 00:19:18,271
+Kenapa, Bocah Serangga?
+
+385
+00:19:18,355 --> 00:19:20,188
+Ya, ke mana semua leluconmu?
+
+386
+00:19:30,355 --> 00:19:32,230
+Andre! Ke mana otakmu?
+
+387
+00:19:32,855 --> 00:19:34,480
+Tenang, Lonnie.
+
+388
+00:19:34,563 --> 00:19:35,605
+Kau bercanda?
+
+389
+00:19:35,688 --> 00:19:38,688
+Ibu di rumah sangat cemas karenamu,
+dan kau menyuruhku tenang?
+
+390
+00:19:38,771 --> 00:19:41,063
+Kau beruntung
+aku tak mencekikmu keluar dari sini.
+
+391
+00:19:41,146 --> 00:19:42,646
+Bagaimana kau menemukanku?
+
+392
+00:19:42,730 --> 00:19:45,771
+Kau pakai paket keluarga, Genius.
+Aku bisa melacak ponselmu.
+
+393
+00:19:45,855 --> 00:19:47,730
+- Ayo cepat!
+- Serius? Paket keluarga?
+
+394
+00:19:48,563 --> 00:19:49,646
+Pulang sana, Bocah.
+
+395
+00:19:50,355 --> 00:19:52,438
+Baiklah. Sial.
+
+396
+00:19:55,271 --> 00:19:57,938
+Hei, Kami mau pergi,
+bukan mau cari masalah.
+
+397
+00:19:58,021 --> 00:19:59,355
+Kami juga tidak.
+
+398
+00:19:59,938 --> 00:20:01,688
+Namun, masalahnya datang sendiri.
+
+399
+00:20:03,105 --> 00:20:06,855
+Maksudku, kau datang ke tempatku
+tanpa sopan santun,
+
+400
+00:20:06,938 --> 00:20:08,563
+tanpa memperkenalkan diri,
+
+401
+00:20:08,646 --> 00:20:11,938
+tapi aku tuan rumah yang baik,
+jadi aku yang akan mulai.
+
+402
+00:20:12,021 --> 00:20:13,480
+Aku Big Donovan.
+
+403
+00:20:13,563 --> 00:20:15,855
+Pemimpin Geng Jalan Seratus Sepuluh.
+
+404
+00:20:16,480 --> 00:20:19,771
+- Lonnie Linc…
+- Aku tahu betul siapa kau, Nak.
+
+405
+00:20:20,438 --> 00:20:22,396
+Kau buah bibir Harlem.
+
+406
+00:20:22,480 --> 00:20:24,188
+Calon atlet NFL.
+
+407
+00:20:24,271 --> 00:20:27,771
+Aku juga pernah taruhan besar
+untuk Ravens, Lincoln.
+
+408
+00:20:30,396 --> 00:20:32,480
+Ya, tetapi meski aku tahu siapa kau,
+
+409
+00:20:32,563 --> 00:20:34,855
+aku tak akan biarkan kau pergi
+dengan salah satu orangku.
+
+410
+00:20:34,938 --> 00:20:36,313
+Dia bukan salah satu orangmu.
+
+411
+00:20:36,855 --> 00:20:38,855
+Dia adikku,
+dan dia tak akan tinggal di sini.
+
+412
+00:20:38,938 --> 00:20:40,896
+Di situlah kesalahanmu.
+
+413
+00:20:40,980 --> 00:20:42,605
+Dre yang mendatangi kami.
+
+414
+00:20:42,688 --> 00:20:46,188
+Dia adik kami sekarang,
+dan tak ada yang tinggalkan keluarga ini.
+
+415
+00:20:46,271 --> 00:20:48,521
+Tidak seperti yang mereka mau.
+
+416
+00:20:48,605 --> 00:20:50,980
+Dengar, dia sudah pernah diciduk polisi.
+
+417
+00:20:51,063 --> 00:20:52,063
+Dia sudah tak berguna.
+
+418
+00:20:52,146 --> 00:20:53,855
+Kita tak perlu mempermasalahkan ini.
+
+419
+00:20:54,271 --> 00:20:57,396
+Maaf, Superstar. Tidak semudah itu.
+
+420
+00:21:02,438 --> 00:21:03,438
+Baiklah.
+
+421
+00:21:04,438 --> 00:21:05,605
+Aku ditukar adikku.
+
+422
+00:21:05,688 --> 00:21:08,813
+- Lonnie.
+- Aku ikut grupmu dan patuhi perintahmu.
+
+423
+00:21:09,855 --> 00:21:11,355
+Jangan ganggu adikku.
+
+424
+00:21:12,188 --> 00:21:15,230
+Baiklah. Jujur saja.
+Ini pertukaran yang luar biasa.
+
+425
+00:21:15,313 --> 00:21:16,605
+Lonnie, itu gila. Paham?
+
+426
+00:21:16,688 --> 00:21:19,230
+- Ibu dan Ayah akan marah jika…
+- Hei, Nak.
+
+427
+00:21:19,313 --> 00:21:21,730
+Orang dewasa sedang bicara.
+Kau pulang saja, paham?
+
+428
+00:21:21,813 --> 00:21:23,480
+Aku tak mau ke mana-mana tanpa kakakku…
+
+429
+00:21:23,563 --> 00:21:24,730
+Kau dengar dia, Dre.
+
+430
+00:21:25,813 --> 00:21:26,896
+Pulanglah.
+
+431
+00:21:45,980 --> 00:21:48,105
+Ke rumah sakit, tolong.
+
+432
+00:21:48,188 --> 00:21:50,021
+Bocah Serangga ternyata segitu saja.
+
+433
+00:21:55,105 --> 00:21:56,188
+Angkat perisai!
+
+434
+00:21:56,271 --> 00:21:57,313
+Pertahankan barisan!
+
+435
+00:21:57,396 --> 00:21:59,813
+<i>Menyerahlah! Kalian tak bisa ke mana-mana!</i>
+
+436
+00:21:59,896 --> 00:22:01,771
+Ya? Kita lihat saja nanti.
+
+437
+00:22:01,855 --> 00:22:04,271
+- Kau siap selesaikan ini, Sayang?
+- Ya.
+
+438
+00:22:09,230 --> 00:22:10,438
+Terus tembak!
+
+439
+00:22:17,021 --> 00:22:18,271
+Mundur!
+
+440
+00:22:19,105 --> 00:22:20,271
+<i>Spider-Man!</i>
+
+441
+00:22:22,771 --> 00:22:24,355
+<i>Spider-Man, kau dengar aku?</i>
+
+442
+00:22:24,438 --> 00:22:25,438
+Halo?
+
+443
+00:22:26,146 --> 00:22:27,313
+Tuhan?
+
+444
+00:22:27,396 --> 00:22:28,896
+Ini aku. Spidey.
+
+445
+00:22:28,980 --> 00:22:30,521
+<i>Spider-Man, ini Norman.</i>
+
+446
+00:22:30,605 --> 00:22:33,521
+Pak Osborn, bagaimana… Kau di mana?
+
+447
+00:22:34,480 --> 00:22:35,563
+Di kantorku.
+
+448
+00:22:35,646 --> 00:22:37,646
+Aku melihat aliran video
+tentang pertarunganmu,
+
+449
+00:22:37,730 --> 00:22:41,396
+- dan kurasa aku bisa bantu.
+<i>- Terima kasih. Kenapa aku mendengarmu?</i>
+
+450
+00:22:41,480 --> 00:22:43,563
+Aku memakai salah satu
+satelit komunikasi Oscorp
+
+451
+00:22:43,646 --> 00:22:45,105
+untuk meretas ponsel dan pemindaimu.
+
+452
+00:22:46,313 --> 00:22:48,021
+<i>Itu agak menyeramkan, tetapi…</i>
+
+453
+00:22:48,105 --> 00:22:49,146
+Kita bahas nanti.
+
+454
+00:22:49,230 --> 00:22:52,313
+Aku perhatikan lawanmu
+saling menjaga jarak.
+
+455
+00:22:52,396 --> 00:22:53,813
+- Aneh, bukan?
+- Ya,
+
+456
+00:22:53,896 --> 00:22:55,813
+agak aneh mengingat mesranya mereka.
+
+457
+00:22:55,896 --> 00:22:58,230
+Artinya teknologi yang mereka pakai
+pasti baru.
+
+458
+00:22:58,313 --> 00:22:59,771
+Mereka belum sepenuhnya terbiasa.
+
+459
+00:22:59,855 --> 00:23:01,980
+Artinya mereka cenderung
+membuat kesalahan.
+
+460
+00:23:02,605 --> 00:23:03,730
+Sepatu bot cepat.
+
+461
+00:23:03,813 --> 00:23:07,146
+Tak ada yang bisa secepat itu
+tanpa semacam tanda saat mau <i>overdrive.</i>
+
+462
+00:23:07,938 --> 00:23:09,480
+Coba dengar tandanya, Peter.
+
+463
+00:23:09,563 --> 00:23:11,105
+Baiklah. Aku bisa, Pak Osborn.
+
+464
+00:23:13,896 --> 00:23:16,396
+Baik! Spider-Man melawan Bonnie dan Clyde.
+
+465
+00:23:16,480 --> 00:23:17,521
+Ronde kedua.
+
+466
+00:23:19,146 --> 00:23:20,355
+Ding-ding.
+
+467
+00:23:27,480 --> 00:23:28,480
+Sekarang!
+
+468
+00:23:33,480 --> 00:23:34,480
+Aku menghindarinya!
+
+469
+00:23:34,563 --> 00:23:36,605
+Hei, Kawan, kau sebut itu cepat?
+
+470
+00:23:36,688 --> 00:23:39,230
+Nenek Spider-ku saja
+bisa lari lebih cepat darimu!
+
+471
+00:23:40,521 --> 00:23:41,855
+Sial.
+
+472
+00:23:47,688 --> 00:23:49,813
+Bisa cepat bunuh dia?
+
+473
+00:23:53,563 --> 00:23:55,521
+Semoga berhasil…
+
+474
+00:24:11,980 --> 00:24:12,980
+Ayolah…
+
+475
+00:24:13,938 --> 00:24:15,688
+- Kau seharusnya…
+- Apa yang kau lakukan?
+
+476
+00:24:15,771 --> 00:24:17,230
+Kau harus matikan alatmu.
+
+477
+00:24:19,938 --> 00:24:22,396
+- Aku tak bisa jangkau tombolnya.
+- Kau serius?
+
+478
+00:24:22,480 --> 00:24:24,021
+Jangan teriaki aku! Ini salahmu!
+
+479
+00:24:42,980 --> 00:24:43,980
+Ups.
+
+480
+00:24:44,063 --> 00:24:46,105
+Ibuku benar tentangmu.
+
+481
+00:24:46,188 --> 00:24:47,271
+Diam di tempat!
+
+482
+00:24:47,355 --> 00:24:49,646
+- Diam!
+- Tersangka ditangkap. Berhasil.
+
+483
+00:24:49,730 --> 00:24:51,105
+Kendalikan kerumunan di sini!
+
+484
+00:24:51,188 --> 00:24:54,063
+Simbol yang sama yang kulihat
+di pelontar api si pemarah.
+
+485
+00:24:58,771 --> 00:25:00,563
+- Terima kasih bantuannya!
+- Astaga…
+
+486
+00:25:00,646 --> 00:25:02,480
+Apa yang kau lakukan di atas sana?
+
+487
+00:25:02,563 --> 00:25:05,771
+- Jangan mengagetkanku. Ya ampun.
+- Astaga. Pak Osborn, maaf.
+
+488
+00:25:05,855 --> 00:25:07,188
+Aku tidak bermaksud…
+
+489
+00:25:07,271 --> 00:25:09,896
+Setelah kupikirkan, itu memang bodoh.
+
+490
+00:25:09,980 --> 00:25:10,980
+Kau baik-baik saja?
+
+491
+00:25:11,063 --> 00:25:12,813
+Ya. Aku baik-baik saja.
+
+492
+00:25:13,438 --> 00:25:15,063
+Aku senang bisa membantumu.
+
+493
+00:25:15,146 --> 00:25:17,813
+Di antara kita saja,
+tampaknya kau membutuhkannya.
+
+494
+00:25:17,896 --> 00:25:20,188
+Aku pasti akan tahu caranya pada akhirnya.
+
+495
+00:25:20,271 --> 00:25:21,605
+Kau tahu… Baiklah.
+
+496
+00:25:21,688 --> 00:25:23,396
+Tidak, aku memang butuh bantuan.
+
+497
+00:25:26,521 --> 00:25:29,688
+Sebenarnya, aku tengah
+memikirkan tawaranmu, Pak Osborn.
+
+498
+00:25:29,771 --> 00:25:31,980
+Jika malam ini membuktikan sesuatu,
+itu mungkin bahwa…
+
+499
+00:25:32,063 --> 00:25:33,813
+Aku butuh seseorang membantuku.
+
+500
+00:25:34,355 --> 00:25:37,313
+Aku siap menawarkan
+bantuan apa pun yang kau butuhkan.
+
+501
+00:25:37,396 --> 00:25:41,105
+Namun, tentu, aku menghormati keinginanmu
+dan itu keputusanmu seorang.
+
+502
+00:25:42,688 --> 00:25:45,813
+Ya, dan aku sudah memutuskan.
+
+503
+00:25:48,105 --> 00:25:50,105
+Selamat datang di tim ini, Pak Osborn.
+
+504
+00:25:52,355 --> 00:25:55,730
+Selamat datang di Gang Seratus Sepuluh,
+Lonnie Lincoln.
+
+505
+00:26:55,646 --> 00:27:01,438
+BERDASARKAN
+KOMIK MARVEL
+
+506
+00:27:01,521 --> 00:27:06,396
+MARVEL ANIMATION
+MEMPERSEMBAHKAN…
+
+507
+00:28:15,271 --> 00:28:17,271
+Diterjemahkan oleh Hadi
+
